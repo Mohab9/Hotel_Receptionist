@@ -5,8 +5,20 @@
       "PackagePath": "staticwebassets\\HotelSystem.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\mohab\\source\\repos\\HotelSystem\\HotelSystem\\wwwroot\\Images\\6fe82686-cf4e-4ff7-9d4b-ec9e3bf31809.jpg",
+      "PackagePath": "staticwebassets\\Images\\6fe82686-cf4e-4ff7-9d4b-ec9e3bf31809.jpg"
+    },
+    {
       "Id": "C:\\Users\\mohab\\source\\repos\\HotelSystem\\HotelSystem\\wwwroot\\Images\\No_Image.png",
       "PackagePath": "staticwebassets\\Images\\No_Image.png"
+    },
+    {
+      "Id": "C:\\Users\\mohab\\source\\repos\\HotelSystem\\HotelSystem\\wwwroot\\Images\\b2ee55e3-4024-4a3e-9f00-06159bb4eb41.jpg",
+      "PackagePath": "staticwebassets\\Images\\b2ee55e3-4024-4a3e-9f00-06159bb4eb41.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mohab\\source\\repos\\HotelSystem\\HotelSystem\\wwwroot\\css\\bootstrap.min (2).css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min (2).css"
     },
     {
       "Id": "C:\\Users\\mohab\\source\\repos\\HotelSystem\\HotelSystem\\wwwroot\\css\\site.css",

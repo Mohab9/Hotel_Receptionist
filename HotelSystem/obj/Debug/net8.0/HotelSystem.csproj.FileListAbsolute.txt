@@ -407,3 +407,4 @@ C:\Users\mohab\source\repos\HotelSystem\HotelSystem\obj\Debug\net8.0\refint\Hote
 C:\Users\mohab\source\repos\HotelSystem\HotelSystem\obj\Debug\net8.0\HotelSystem.pdb
 C:\Users\mohab\source\repos\HotelSystem\HotelSystem\obj\Debug\net8.0\HotelSystem.genruntimeconfig.cache
 C:\Users\mohab\source\repos\HotelSystem\HotelSystem\obj\Debug\net8.0\ref\HotelSystem.dll
+C:\Users\mohab\source\repos\HotelSystem\HotelSystem\obj\Debug\net8.0\HotelSystem.sourcelink.json
